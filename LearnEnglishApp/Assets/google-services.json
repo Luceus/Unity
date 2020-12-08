@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930345875246",
+    "project_id": "englishquestionapp-781ce",
+    "storage_bucket": "englishquestionapp-781ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930345875246:android:b58593eeaa9bf35fabecbf",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.LearnEnglishApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930345875246-icltvu162m4sfjt6gmks7lsosv1tsrd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiaGgY3QJqUzSZrRIRZ8JMYDkVDUa24NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930345875246-icltvu162m4sfjt6gmks7lsosv1tsrd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
